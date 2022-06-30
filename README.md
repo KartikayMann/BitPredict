@@ -1,0 +1,2 @@
+# BitPredict
+Bit Predict is a bitcoin price predictor which predicts the price of bitcoin using previous timeseries data (Timeseries Forecasting). Evaluated the results of a series of deep learning model such as sequence models (LSTM,1D CNN), ensemble model, dense model, multivariate model, also replicated the N-BEATS algorithm using TensorFlow layer subclassing and made prediction with the best performing model.
